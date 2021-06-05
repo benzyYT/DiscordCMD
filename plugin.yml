@@ -1,0 +1,7 @@
+name: DiscordCMD
+version: 1.7
+author: benzy
+main: de.benzy.discordcommand.main.Main
+commands:
+  discord:
+    aliases: [dc]
